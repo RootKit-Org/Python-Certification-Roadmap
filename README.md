@@ -1,160 +1,57 @@
-# Python 3
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-### 1. Basic Operators
-  * \+
-  * \-
-  * \*
-  * \**
-  * /
-  * //
-  * %
-  * =
-  * +=
-  * -=
-  * *=
-  * /=
-  * !
+# Python 3 Certification Requirements
+Welcome to RootKit's Python Certification Requirements! These requirements list
+everything you need to know in order to obtain our Python certificate!
 
-### 2. Conditions
-  * ==
-  * !=
-  * \>
-  * \<
-  * \>=
-  * \<=
+Below is the link to our grading rubric!
 
-### 3. Data Types
-  * String
-  * Integer
-  * Float
-  * Complex
-  * List
-  * Tuple
-  * Range
-  * Dictionary
-  * Set
-  * Boolean
-  * Bytes
+## Table of Contents
+Items are listed in the recommended order of completion.
+[Rubric](Rubric.md)
 
-### 4. Strings
-  * \\'
-  * \\"
-  * \\\
-  * \n
-  * \r
-  * \t
-  * \b
-  * \ooo
-  * \xhhh
-  * Subscripting (Indexing)
-  * Slicing
-  * `.format()`
+### Open Source Education
+We are a non-profit with a goal of making the computer science realm
+accessible to as many people as possible. This is not a joke! If you learn
+everything here and get the GenCyber Certificate you **DO NOT** have to go to
+college!
 
-### 5. List
-  * `.append()`
-  * `.pop()`
-  * `.remove()`
-  * `.clear()`
+### Resources
+We have included not only the requirements in order to pass, but
+resources in order to learn the requirements. The resources list is a work in
+progress so feel free to contribute to it! All resources list are 100% FREE to
+utilize unless stated otherwise. If any of the linked resources are no longer
+free and not marked as paid, please let us know ASAP or push up the correction.
 
-### 6. Statements
-  * import
-  * if
-  * elif
-  * else
-  * while
-  * for
-  * try
-  * except
-  * finally
-  * raise
-  * pass
-  * break
-  * continue
-  * return
-  * lambda
-  * True
-  * False
-  * as
-  * in
-  * def
-  * class
-  * global
+#### Free Websites
+[W3 Schools](https://www.w3schools.com/)\
+[freeCodeCamp](https://www.freecodecamp.org/)
 
-### 7. Basic Functions
-  * `len()`
-  * `type()`
-  * `abs()`
-  * `all()`
-  * `any()`
-  * `ascii()`
-  * `bin()`
-  * `bool()`
-  * `bytes()`
-  * `complex()`
-  * `dict()`
-  * `dir()`
-  * `enumerate()`
-  * `eval()`
-  * `exec()`
-  * `filter()`
-  * `float()`
-  * `format()`
-  * `getattr()`
-  * `globals()`
-  * `hasattr()`
-  * `hash()`
-  * `help()`
-  * `hex()`
-  * `input()`
-  * `int()`
-  * `isinstance()`
-  * `issubclass()`
-  * `list()`
-  * `locals()`
-  * `max()`
-  * `min()`
-  * `next()`
-  * `open()`
-  * `pow()`
-  * `print()`
-  * `range()`
-  * `round()`
-  * `set()`
-  * `setattr()`
-  * `super()`
-  * `sorted()`
-  * `str()`
-  * `sum()`
-  * `tuple()`
-  * `zip()`
-  * `__main__()`
+#### Youtube Channels
+[freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)\
+[thenewboston](https://www.youtube.com/user/thenewboston)\
+[Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)\
+[Linus Tech Tips](https://www.youtube.com/user/LinusTechTips)\
+[Techquickie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)\
+[Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)\
+[Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)\
+[Amigoscode](https://www.youtube.com/user/djdjalas)\
+[Tech With Tim](https://www.youtube.com/c/TechWithTim/featured)\
+[Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)\
+[Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)\
+[TheTrevTutor](https://www.youtube.com/channel/UCGYSfZbPp3BiAFs531PBY7g)\
+[TED-Ed](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA)\
+[Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)\
+[Steve Mould](https://www.youtube.com/channel/UCEIwxahdLz7bap-VDs9h35A)\
+[CertBros](https://www.youtube.com/channel/UCZg4PvX48mgXQVySgIulX-Q)\
+[RealPars](https://www.youtube.com/channel/UCUKKQwBQZczpYzETkZNxi-w)\
+[Simply Explained](https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ)\
+[CrashCourse](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q)
 
-### 8. Classes
- * class
- * Inheritance
- * Multiple Inheritance
- * Private Variables
- * properties
- * Methods
- * Self
- * Instance Object
- * `__init__(self)`
- * `__str__(self)`
- * `__iter__(self)`
- * `__next__(self)`
+#### Mix (free and paid content)
+[Udemy](https://www.udemy.com/courses/development/)\
+[Codecademy](https://www.codecademy.com/)
 
-
-### 9. Tasks
-  * Create variables
-  * Cast variables
-  * Utilize Nested loops
-  * Import modules
-  * Read and write to a file
-  * Create Functions
-  * Function recursion
-  * Create a class
-  * Create a class using inheritance
-  * Create object
-
-### 10. PEP8
-  * Style manually or utilizing pep8 tool
+#### Paid
+[RootKit](https://rootkit.education/)\
+[Lynda](https://www.lynda.com/)
