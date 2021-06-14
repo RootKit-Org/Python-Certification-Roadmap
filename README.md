@@ -7,7 +7,7 @@ everything you need to know in order to obtain our Python certificate!
 Below is the link to our grading rubric!
 
 ## Table of Contents
-[Python Requirements](Python.md)
+[Python Requirements](Python.md)\
 [Rubric](Rubric.md)
 
 ### Open Source Education
