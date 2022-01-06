@@ -166,12 +166,16 @@ Below are all the possible things we will test for.
   * Cast variables
   * Utilize Nested loops
   * Import modules
+  * Utilize command line input
   * Read and write to a file
   * Create Functions
   * Function recursion
   * Create a class
   * Create a class using inheritance
   * Create object
+  * Serialize and deserialize json 
+  * Create and use random numbers
+
 
 ### 11. PEP8
   * Style manually or utilizing pep8 tool
