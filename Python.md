@@ -130,7 +130,23 @@ Below are all the possible things we will test for.
   * `zip()`
   * `__main__()`
 
-### 8. Classes
+### 8. Modules
+ * argparse
+   * argparse.ArgumentParser()
+   * add_argument()
+   * parse_args()
+ * random
+   * seed()
+   * randbytes()
+   * randrange()
+   * randint()
+   * random()
+   * triangular()
+ * json
+   * loads()
+   * dumps()
+
+### 9. Classes
  * class
  * Inheritance
  * Multiple Inheritance
@@ -145,7 +161,7 @@ Below are all the possible things we will test for.
  * `__next__(self)`
 
 
-### 9. Tasks
+### 10. Tasks
   * Create variables
   * Cast variables
   * Utilize Nested loops
@@ -157,5 +173,5 @@ Below are all the possible things we will test for.
   * Create a class using inheritance
   * Create object
 
-### 10. PEP8
+### 11. PEP8
   * Style manually or utilizing pep8 tool
