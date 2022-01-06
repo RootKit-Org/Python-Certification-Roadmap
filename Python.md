@@ -143,8 +143,8 @@ Below are all the possible things we will test for.
    * random()
    * triangular()
  * json
-   * loads()
-   * dumps()
+   * load()
+   * dump()
 
 ### 9. Classes
  * class
