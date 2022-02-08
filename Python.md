@@ -29,17 +29,22 @@ Below are all the possible things we will test for.
 
 ## 3. Data Types
 
-* String
-* Integer
-* Float
-* Complex
-* List
-* Tuple
-* Range
-* Dictionary
-* Set
-* Boolean
-* Bytes
+* Mutable
+  * List
+  * Byte Array
+  * Dictionary
+  * Set
+
+* Immutable
+  * String
+  * Byte
+  * Tuple
+  * Boolean
+  * Integer
+  * Decimal
+  * Float
+  * Complex
+  * Frozen Set
 
 ## 4. Strings
 
